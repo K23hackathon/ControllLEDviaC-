@@ -36,3 +36,4 @@
 .\project\main.o: ..\Libraries\STM32F4xx_StdPeriph_Driver\inc\misc.h
 .\project\main.o: ..\lcd.h
 .\project\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\project\main.o: ..\Libraries\STM32F4xx_StdPeriph_Driver\inc\HCSR04.h

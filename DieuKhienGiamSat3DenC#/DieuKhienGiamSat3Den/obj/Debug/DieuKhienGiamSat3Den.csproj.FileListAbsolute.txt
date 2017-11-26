@@ -1,0 +1,45 @@
+D:\Document\DO AN\EIU\Do An C\Ngoc\Ngoc_C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\bin\Debug\DieuKhienGiamSat3Den.exe.config
+D:\Document\DO AN\EIU\Do An C\Ngoc\Ngoc_C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\bin\Debug\DieuKhienGiamSat3Den.exe
+D:\Document\DO AN\EIU\Do An C\Ngoc\Ngoc_C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\bin\Debug\DieuKhienGiamSat3Den.pdb
+D:\Document\DO AN\EIU\Do An C\Ngoc\Ngoc_C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.csprojResolveAssemblyReference.cache
+D:\Document\DO AN\EIU\Do An C\Ngoc\Ngoc_C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.Form1.resources
+D:\Document\DO AN\EIU\Do An C\Ngoc\Ngoc_C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.Properties.Resources.resources
+D:\Document\DO AN\EIU\Do An C\Ngoc\Ngoc_C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.csproj.GenerateResource.Cache
+D:\Document\DO AN\EIU\Do An C\Ngoc\Ngoc_C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.exe
+D:\Document\DO AN\EIU\Do An C\Ngoc\Ngoc_C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.pdb
+D:\Study\DAC\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\bin\Debug\DieuKhienGiamSat3Den.exe.config
+D:\Study\DAC\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.exe
+D:\Study\DAC\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.pdb
+D:\Study\DAC\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\bin\Debug\DieuKhienGiamSat3Den.exe
+D:\Study\DAC\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\bin\Debug\DieuKhienGiamSat3Den.pdb
+D:\Study\DAC\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.csprojResolveAssemblyReference.cache
+D:\Study\DAC\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.Form1.resources
+D:\Study\DAC\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.Properties.Resources.resources
+D:\Study\DAC\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.csproj.GenerateResource.Cache
+D:\Study\DAC\Ngoc_C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\bin\Debug\DieuKhienGiamSat3Den.exe.config
+D:\Study\DAC\Ngoc_C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.exe
+D:\Study\DAC\Ngoc_C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.pdb
+D:\Study\DAC\Ngoc_C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\bin\Debug\DieuKhienGiamSat3Den.exe
+D:\Study\DAC\Ngoc_C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\bin\Debug\DieuKhienGiamSat3Den.pdb
+D:\Study\DAC\Ngoc_C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.csprojResolveAssemblyReference.cache
+D:\Study\DAC\Ngoc_C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.Form1.resources
+D:\Study\DAC\Ngoc_C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.Properties.Resources.resources
+D:\Study\DAC\Ngoc_C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.csproj.GenerateResource.Cache
+C:\Users\Nhi\Downloads\C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\bin\Debug\DieuKhienGiamSat3Den.exe.config
+C:\Users\Nhi\Downloads\C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.exe
+C:\Users\Nhi\Downloads\C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.pdb
+C:\Users\Nhi\Downloads\C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\bin\Debug\DieuKhienGiamSat3Den.exe
+C:\Users\Nhi\Downloads\C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\bin\Debug\DieuKhienGiamSat3Den.pdb
+C:\Users\Nhi\Downloads\C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.csprojResolveAssemblyReference.cache
+C:\Users\Nhi\Downloads\C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.Form1.resources
+C:\Users\Nhi\Downloads\C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.Properties.Resources.resources
+C:\Users\Nhi\Downloads\C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.csproj.GenerateResource.Cache
+C:\Users\Huy Binh\Desktop\PWM_Ngoc_C\Nhi\C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\bin\Debug\DieuKhienGiamSat3Den.exe.config
+C:\Users\Huy Binh\Desktop\PWM_Ngoc_C\Nhi\C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.exe
+C:\Users\Huy Binh\Desktop\PWM_Ngoc_C\Nhi\C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.pdb
+C:\Users\Huy Binh\Desktop\PWM_Ngoc_C\Nhi\C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\bin\Debug\DieuKhienGiamSat3Den.exe
+C:\Users\Huy Binh\Desktop\PWM_Ngoc_C\Nhi\C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\bin\Debug\DieuKhienGiamSat3Den.pdb
+C:\Users\Huy Binh\Desktop\PWM_Ngoc_C\Nhi\C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.csprojResolveAssemblyReference.cache
+C:\Users\Huy Binh\Desktop\PWM_Ngoc_C\Nhi\C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.Form1.resources
+C:\Users\Huy Binh\Desktop\PWM_Ngoc_C\Nhi\C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.Properties.Resources.resources
+C:\Users\Huy Binh\Desktop\PWM_Ngoc_C\Nhi\C\C#\DieuKhienGiamSat3Den\DieuKhienGiamSat3Den\obj\Debug\DieuKhienGiamSat3Den.csproj.GenerateResource.Cache

@@ -21,42 +21,60 @@ Target DLL:      STLink\ST-LINKIII-KEIL_SWO.dll V2.0.18.0
 Dialog DLL:      TCM.DLL V1.21.0.0
  
 <h2>Project:</h2>
-C:\Users\Huy Binh\Desktop\PWM_Ngoc_C\PWM\MDK-ARM\Project.uvprojx
+C:\Users\Huy Binh\Desktop\PWM_Ngoc_C\Nhi\PWM\MDK-ARM\Project.uvprojx
 Project File Date:  11/25/2017
 
 <h2>Output:</h2>
 *** Using Compiler 'V5.06 update 4 (build 422)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
 Build target 'Project'
 compiling main.c...
-..\main.c(34): warning:  #177-D: variable "dodai"  was declared but never referenced
-    char dodai=0;
-..\main.c(73): warning:  #223-D: function "Delay" declared implicitly
-  	Delay(1500);
-..\main.c(91): error:  #20: identifier "sms_mode" is undefined
-  	sms_mode = 0;
-..\main.c(109): warning:  #223-D: function "Delay" declared implicitly
-  	Delay(2000); //delay 2s
-..\main.c(122): warning:  #223-D: function "wait_ok" declared implicitly
-  	while( wait_ok()==0);
-..\main.c(142): warning:  #177-D: variable "times"  was declared but never referenced
-  	static uint16_t times = 0;
-..\main.c(241): warning:  #223-D: function "Delay" declared implicitly
-  			Delay(200);
-..\main.c(305): warning:  #177-D: variable "TIM_OCInitStructure"  was declared but never referenced
+..\Libraries\STM32F4xx_StdPeriph_Driver\inc\HCSR04.h(3): warning:  #1295-D: Deprecated declaration HCSR04_GPIO_Init - give arg types
+  void HCSR04_GPIO_Init();
+..\Libraries\STM32F4xx_StdPeriph_Driver\inc\HCSR04.h(4): warning:  #1295-D: Deprecated declaration HCSR04_TIM_Init - give arg types
+  void HCSR04_TIM_Init();
+..\Libraries\STM32F4xx_StdPeriph_Driver\inc\HCSR04.h(6): warning:  #1295-D: Deprecated declaration TIM_CAPTURE - give arg types
+  void TIM_CAPTURE();
+..\Libraries\STM32F4xx_StdPeriph_Driver\inc\HCSR04.h(7): warning:  #1295-D: Deprecated declaration Sonic_Read1 - give arg types
+  void Sonic_Read1();
+..\Libraries\STM32F4xx_StdPeriph_Driver\inc\HCSR04.h(8): warning:  #1295-D: Deprecated declaration timeout - give arg types
+  void timeout();
+..\Libraries\STM32F4xx_StdPeriph_Driver\inc\HCSR04.h(10): warning:  #1-D: last line of file ends without a newline
+  extern volatile float distance1;
+..\main.c(117): warning:  #1295-D: Deprecated declaration TIM_PWM_Configuration - give arg types
+  void TIM_PWM_Configuration();
+..\main.c(118): warning:  #1295-D: Deprecated declaration ADC_Read - give arg types
+  void ADC_Read();
+..\main.c(119): warning:  #1295-D: Deprecated declaration ADC_config - give arg types
+  void ADC_config();
+..\main.c(120): warning:  #1295-D: Deprecated declaration TIM3_Read_Config - give arg types
+  void TIM3_Read_Config();
+..\main.c(121): warning:  #1295-D: Deprecated declaration check_CB - give arg types
+  void check_CB();
+..\main.c(122): warning:  #1295-D: Deprecated declaration check_cb - give arg types
+  void check_cb();
+..\main.c(123): warning:  #1295-D: Deprecated declaration CheckValueCShap - give arg types
+  void CheckValueCShap();
+..\main.c(612): warning:  #186-D: pointless comparison of unsigned integer with zero
+  		if(PWM_Value[0] < 0 || PWM_Value[0] >100)
+..\main.c(620): warning:  #186-D: pointless comparison of unsigned integer with zero
+  		if(PWM_Value[1] < 0 || PWM_Value[1] >100)
+..\main.c(628): warning:  #186-D: pointless comparison of unsigned integer with zero
+  		if(PWM_Value[2] < 0 || PWM_Value[2] >100)
+..\main.c(861): warning:  #177-D: variable "TIM_OCInitStructure"  was declared but never referenced
   	TIM_OCInitTypeDef  TIM_OCInitStructure;
-..\main.c(306): warning:  #177-D: variable "GPIO_InitStructure"  was declared but never referenced
+..\main.c(862): warning:  #177-D: variable "GPIO_InitStructure"  was declared but never referenced
   	GPIO_InitTypeDef       GPIO_InitStructure;
-..\main.c(395): warning:  #1-D: last line of file ends without a newline
-  //Program Size: Code=2744 RO-data=424 RW-data=124 ZI-data=2380  
-..\main.c: 9 warnings, 1 error
-".\Project\Project.axf" - 1 Error(s), 9 Warning(s).
+..\main.c: 18 warnings, 0 errors
+linking...
+Program Size: Code=9588 RO-data=432 RW-data=228 ZI-data=3100  
+FromELF: creating hex file...
+".\Project\Project.axf" - 0 Error(s), 18 Warning(s).
 
 <h2>Collection of Component include folders:</h2>
-  C:\Users\Huy Binh\Desktop\PWM_Ngoc_C\PWM\MDK-ARM\RTE\_Project
+  C:\Users\Huy Binh\Desktop\PWM_Ngoc_C\Nhi\PWM\MDK-ARM\RTE\_Project
   C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include
 
 <h2>Collection of Component Files used:</h2>
-Target not created.
 Build Time Elapsed:  00:00:01
 </pre>
 </body>
